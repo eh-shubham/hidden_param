@@ -10,7 +10,7 @@ A tool to discover hidden parameters in web applications.
 
 ## Installation
 ```bash
-git clone https://github.com/eh-shubham/hidden-param-finder.git
+git clone https://github.com/eh-shubham/hidden_param.git
 cd hidden-param-finder
 pip install -r requirements.txt
 
